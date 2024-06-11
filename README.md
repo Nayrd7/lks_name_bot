@@ -1,3 +1,3 @@
-#**FNaF: Reconstruction C.O Discord Bot**
+# **FNaF: Reconstruction C.O Discord Bot**
 - - -
 ## Данный Бот создан специально для дискорд сервера **FNaF: Reconstruction C.O**. Его основной целью является упростить поддержку сервера и дать ощутить весь спект возможностей дискорд используя все инструменты фрейворка **Disnake** для **Python**.
